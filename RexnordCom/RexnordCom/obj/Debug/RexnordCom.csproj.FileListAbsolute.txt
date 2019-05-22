@@ -1,0 +1,24 @@
+D:\workbench\Testing\RexnordCom\RexnordCom\bin\Debug\RexnordCom.dll
+D:\workbench\Testing\RexnordCom\RexnordCom\bin\Debug\RexnordCom.pdb
+D:\workbench\Testing\RexnordCom\RexnordCom\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\workbench\Testing\RexnordCom\RexnordCom\bin\Debug\WebDriver.dll
+D:\workbench\Testing\RexnordCom\RexnordCom\bin\Debug\WebDriver.Support.dll
+D:\workbench\Testing\RexnordCom\RexnordCom\bin\Debug\WebDriver.xml
+D:\workbench\Testing\RexnordCom\RexnordCom\bin\Debug\WebDriver.Support.xml
+D:\workbench\Testing\RexnordCom\RexnordCom\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\workbench\Testing\RexnordCom\RexnordCom\obj\Debug\RexnordCom.dll
+D:\workbench\Testing\RexnordCom\RexnordCom\obj\Debug\RexnordCom.pdb
+D:\workbench\Testing\RexnordCom\RexnordCom\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordCom\RexnordCom\bin\Debug\RexnordCom.dll
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordCom\RexnordCom\bin\Debug\RexnordCom.pdb
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordCom\RexnordCom\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordCom\RexnordCom\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordCom\RexnordCom\bin\Debug\WebDriver.dll
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordCom\RexnordCom\bin\Debug\WebDriver.Support.dll
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordCom\RexnordCom\bin\Debug\WebDriver.xml
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordCom\RexnordCom\bin\Debug\WebDriver.Support.xml
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordCom\RexnordCom\obj\Debug\RexnordCom.csprojResolveAssemblyReference.cache
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordCom\RexnordCom\obj\Debug\RexnordCom.csproj.CoreCompileInputs.cache
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordCom\RexnordCom\obj\Debug\RexnordCom.csproj.CopyComplete
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordCom\RexnordCom\obj\Debug\RexnordCom.dll
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordCom\RexnordCom\obj\Debug\RexnordCom.pdb

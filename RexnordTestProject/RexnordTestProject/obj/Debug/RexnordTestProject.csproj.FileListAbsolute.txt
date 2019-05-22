@@ -1,0 +1,27 @@
+D:\workbench\Testing\RexnordTestProject\RexnordTestProject\bin\Debug\RexnordTestProject.dll
+D:\workbench\Testing\RexnordTestProject\RexnordTestProject\bin\Debug\RexnordTestProject.pdb
+D:\workbench\Testing\RexnordTestProject\RexnordTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\workbench\Testing\RexnordTestProject\RexnordTestProject\bin\Debug\RexnordCom.dll
+D:\workbench\Testing\RexnordTestProject\RexnordTestProject\bin\Debug\WebDriver.dll
+D:\workbench\Testing\RexnordTestProject\RexnordTestProject\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\workbench\Testing\RexnordTestProject\RexnordTestProject\bin\Debug\RexnordCom.pdb
+D:\workbench\Testing\RexnordTestProject\RexnordTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\workbench\Testing\RexnordTestProject\RexnordTestProject\bin\Debug\WebDriver.xml
+D:\workbench\Testing\RexnordTestProject\RexnordTestProject\obj\Debug\RexnordTestProject.csprojResolveAssemblyReference.cache
+D:\workbench\Testing\RexnordTestProject\RexnordTestProject\obj\Debug\RexnordTestProject.dll
+D:\workbench\Testing\RexnordTestProject\RexnordTestProject\obj\Debug\RexnordTestProject.pdb
+D:\workbench\Testing\RexnordTestProject\RexnordTestProject\bin\Debug\RexnordTestProject.dll.config
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordTestProject\RexnordTestProject\bin\Debug\RexnordTestProject.dll.config
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordTestProject\RexnordTestProject\bin\Debug\RexnordTestProject.dll
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordTestProject\RexnordTestProject\bin\Debug\RexnordTestProject.pdb
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordTestProject\RexnordTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordTestProject\RexnordTestProject\bin\Debug\RexnordCom.dll
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordTestProject\RexnordTestProject\bin\Debug\WebDriver.dll
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordTestProject\RexnordTestProject\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordTestProject\RexnordTestProject\bin\Debug\RexnordCom.pdb
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordTestProject\RexnordTestProject\bin\Debug\WebDriver.xml
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordTestProject\RexnordTestProject\obj\Debug\RexnordTestProject.csprojResolveAssemblyReference.cache
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordTestProject\RexnordTestProject\obj\Debug\RexnordTestProject.csproj.CoreCompileInputs.cache
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordTestProject\RexnordTestProject\obj\Debug\RexnordTestProject.csproj.CopyComplete
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordTestProject\RexnordTestProject\obj\Debug\RexnordTestProject.dll
+C:\Users\vempc\Documents\Visual Studio 2017\Projects\RexnordTestProject\RexnordTestProject\obj\Debug\RexnordTestProject.pdb
